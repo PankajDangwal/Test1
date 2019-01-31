@@ -1,0 +1,49 @@
+Topic Covered
+* GIT basic Command
+* Source tree GUI   (Fetch)
+
+
+
+create a local GIT repo
+ through screen.
+ 
+git init  // will create .git in the folder
+
+add a new file  (create a new .txt file
+
+
+git status (track history of prgram to be commited)
+
+
+git add fileNname.txt    (buffer stack
+
+
+
+git commit file.txt -m "first comit"
+
+
+git master(pwd)    
+
+
+
+git checkout  -b  branch_name    (checkout a new branch)
+
+git checkout branch_name   (traverse )
+
+
+
+git remote add origin (URL)    (for remote connection link)
+
+
+git push -u origin branch
+git push -u origin branch2
+
+***********************************************************************************************************************
+
+    
+	
+stage All
+
+
+
+
